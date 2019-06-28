@@ -1,3 +1,3 @@
 <?php
 
-echo '<h1>Welcome to Container</h1>';
+echo '<h1>Welcome to K8 Container</h1>';
